@@ -1,0 +1,2 @@
+playwright==1.25.2
+Scrapy==2.6.2
